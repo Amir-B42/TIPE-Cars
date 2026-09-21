@@ -1,7 +1,7 @@
 Package pour la simulation : 
 - pyChrono
 - Laptime-simulation (TUMFTM)
-- Harfang3D Car simulator
 - Pymunk (2D)
 
 - Panda3D (best option)
+- Harfang3D
