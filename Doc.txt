@@ -3,6 +3,6 @@ Package pour la simulation :
 - Pymunk (2D)
 - Harfang3D
 
-- Godot 4 (un peu plus compliqué mais meilleure physique)
+- Godot 4 (un peu plus compliqué mais meilleure physique mais enft nvm prcq y'a pas les fluides)
 - Panda3D (best option mais y'a que les interactions solides)
 - pyChrono (hopefully the Goat ?)
