@@ -6,3 +6,17 @@ Package pour la simulation :
 - Godot 4 (un peu plus compliqué mais meilleure physique mais enft nvm prcq y'a pas les fluides)
 - Panda3D (best option mais y'a que les interactions solides)
 - pyChrono (hopefully the Goat ?)
+
+-On part sur Panda3d et tant pis si c'est pas assez réaliste
+
+
+
+https://api.projectchrono.org/development/tutorial_table_of_content_pychrono.html
+
+
+
+
+
+
+
+
